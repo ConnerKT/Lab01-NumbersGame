@@ -1,3 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// This is our Method for our Main
+class Numbersgame
+{
+    static void MainMethod(string[] args)
+    {
+        // code to be executed
+        StartSequence();
+    }
+    static void StartSequence() {
 
+    }
+}
